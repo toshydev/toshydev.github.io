@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Toshy"
   avatar : "/assets/images/snek.png"
-  bio    : "I'm a musician turned programmer. Python is my language of choice"
+  bio    : "I'm a musician turned programmer who works with python."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
