@@ -1,6 +1,6 @@
 ---
 title: "Welcome SnekHome!"
-date: 2022-06-14T12:00:00-04:00
+date: 2022-06-14T12:00:00-00:00
 categories:
   - blog
 tags:
