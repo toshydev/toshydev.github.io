@@ -1,5 +1,5 @@
 ---
-title: "Welcome SnekHome!"
+title: "Welcome to SnekHome!"
 date: 2022-06-13T09:00:00-05:00
 categories:
   - blog
