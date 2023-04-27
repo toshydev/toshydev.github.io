@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Toshy"
   avatar : "/assets/images/snek.png"
-  bio    : "I'm a musician turned programmer who works with python."
+  bio    : "I'm a musician turned software developer working with JavaScript, Python, React, Next.js."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/toshymoshy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/toshymoshy"
+      url: "https://github.com/toshydev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/toshymoshy"
@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/toshymoshy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/toshymoshy"
+      url: "https://github.com/toshydev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/toshymoshy"
